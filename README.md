@@ -1,4 +1,4 @@
-# Teste BackEnd
+# Shopper Backend API
 
 ## Sobre
 
